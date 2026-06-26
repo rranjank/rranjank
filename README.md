@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Rajeev+Ranjan+Kumar;Full+Stack+Developer;Java+Developer;React+Developer;Spring+Boot+Learner;Open+Source+Contributor;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Rajeev+Ranjan+Kumar;Full+Stack+Developer;React+Developer;Spring+Boot+Learner;Open+Source+Contributor;Always+Learning+New+Things"/>
 
 <br><br>
 
@@ -16,20 +16,16 @@
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/rranjank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/rajeev-ranjan-k45">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rajeevkr89200@gamil.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge"/>
 </a>
 
 </div>
@@ -122,7 +118,7 @@ I also serve as the **Coordinator of a Full Stack Development Batch of 200+ stud
 
 ---
 
-## ☁ Cloud, DevOps & Tools
+## Tools
 
 <p>
 
@@ -133,4 +129,151 @@ I also serve as the **Coordinator of a Full Stack Development Batch of 200+ stud
 </p>
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rranjank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rranjank&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rranjank&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rranjank&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+---
+
+# ⚡ Development Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rranjank&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rranjank&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rranjank&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rranjank&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rranjank&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Java
+  - Spring Boot
+  - React.js
+  - Data Structures & Algorithms
+  - System Design
+  - REST APIs
+
+Building:
+  - Enterprise Full Stack Projects
+  - MERN Applications
+  - Java Backend Projects
+  - Portfolio Website
+  - Open Source Projects
+
+Exploring:
+  - Artificial Intelligence
+  - Machine Learning
+  - Cloud Computing
+  - Docker
+  - Kubernetes
+  - AWS
+
+Goals:
+  - Crack Software Engineering Internship
+  - Become Full Stack Engineer
+  - Contribute to Open Source
+  - Build Scalable Applications
+  - Improve Problem Solving
+
+Open To:
+  - Internship
+  - Full Time Opportunities
+  - Freelancing
+  - Collaboration
+  - Hackathons
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:rajeevkr89200@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rajeev-ranjan-k45">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rranjank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> **"Code with purpose. Learn continuously. Build solutions that create impact."**
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories and connecting with me.
+
+### Happy Coding! 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+
+</div>
+
 
