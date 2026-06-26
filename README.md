@@ -1,32 +1,136 @@
-# 💫 Hi 👋, I'm Rajeev Ranjan Kumar
+<div align="center">
 
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rajeev%20Ranjan%20Kumar&fontAlign=50&fontAlignY=40&fontSize=55&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Java%20Developer&descAlignY=62"/>
 
-Email Me 👉 ✉️ **[rajeevkr89200@gmail.com](mailto:rajeevkr89200@gmail.com)** For Collaboration/Project or Anything Else. 😊😊
+<br>
 
-* 🔭 **I’m currently working on:** Cloud & DevOps Projects
-* 🌱 **I’m currently learning:** AWS, Docker, Kubernetes, Kafka, CI/CD
-* 👯 **I’m looking to collaborate on:** Open Source Cloud & DevOps Projects
-* 🤔 **I’m looking for help with:** Advanced Kubernetes & Cloud Architecture
-* 📫 **How to reach me:** **[rajeevkr89200@gmail.com](mailto:rajeevkr89200@gmail.com)**
-* 😄 **Pronouns:** Rajeev
-* ⚡ **Fun fact:** I Love Tech and Tech Loves Me 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Rajeev+Ranjan+Kumar;Full+Stack+Developer;Java+Developer;React+Developer;Spring+Boot+Learner;Open+Source+Contributor;Always+Learning+New+Things"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeev-ranjan-k45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeevkr89200@gmail.com) 
+<br><br>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/AKTU-University-6f42c1?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-8.04-success?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20To-Internships-orange?style=for-the-badge)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)\
+
+<br><br>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+# 💫 About Me
 
+```java
+class RajeevRanjanKumar {
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    String role = "Full Stack Developer";
+
+    String education = "B.Tech CSE";
+
+    String university = "AKTU";
+
+    String internship = "Softpro India";
+
+    String currentFocus = "Java + Spring Boot + React";
+
+    String interests[] = {
+        "Software Engineering",
+        "Web Development",
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Open Source"
+    };
+
+}
+```
+
+### 👨‍💻 Professional Summary
+
+I'm a passionate **Software Engineering student** focused on building scalable web applications and solving real-world problems through technology.
+
+Currently working as a **Software Intern at Softpro India**, where I'm strengthening my skills in Java, SQL, Full Stack Development, and collaborative software engineering.
+
+I also serve as the **Coordinator of a Full Stack Development Batch of 200+ students**, helping organize learning sessions, mentor peers, and coordinate technical activities.
+
+---
+
+# 🚀 Open To
+
+- Software Engineering Internship
+- Full Stack Development Internship
+- Java Developer Roles
+- Open Source Contributions
+- Technical Collaborations
+- Hackathons
+
+---
+
+# ⚡ Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+</p>
+
+---
+
+## ⚙ Backend & Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=express"/>
+<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+---
+
+## ☁ Cloud, DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
