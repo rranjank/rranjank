@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Open%20To-Internships-orange?style=for-the-badge)
 
 
-<br><br>
+<br>
 
 <a href="https://github.com/rranjank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
